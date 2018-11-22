@@ -1,15 +1,26 @@
 ---
 layout: page
-title: Contact
+title: Let's improve your Shopify store
 ---
 
+<p>What are you dissatisfied the most from your Shopify store?</p>
+
+<p>Where do you want to take your e-commerce business?</p>
+
+<p>Tell me!<br/>
+<em>I read and reply to all of my emails.</em></p>
+
+<em>Send your message to <a href="mailto:{{ site.author.email }}" target="_blank" rel="noopener">{{ site.author.email }}</a> or use this form:</em>
 
 <form action="//formspree.io/{{ site.author.email }}"
       method="POST">
+  	<label>Your best email:</label>
     <input type="email" name="_replyto" placeholder="{{ site.var_your_email }}">
     <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks" />
     <input type="hidden" name="_subject" value="New submission from {{ site.url }}{{ site.baseurl }}" />
     <input type="text" name="_gotcha" style="display:none" />
+    <label for="">What is the URL of your website?<br/>
+What problems are you facing with your Shopify store?</label>
     <textarea type="text" name="content" rows="8" placeholder="{{ site.var_your_message }}"></textarea>
     <input type="submit" value="Send">
 </form>
