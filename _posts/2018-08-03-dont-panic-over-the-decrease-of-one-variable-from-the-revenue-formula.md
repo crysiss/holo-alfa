@@ -11,7 +11,7 @@ inline_featured_image:
 categories:
   - Uncategorized
 ---
-In practice all of the variables in your Shopify store in constant flux. 
+In practice all of the variables in your Shopify store are in constant flux. 
 
 Say you manage to bring more traffic, but it isn’t as targeted as before. These new people won’t respond so well to the offers on your store. This will drive conversion rate down. 
 
