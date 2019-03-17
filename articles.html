@@ -1,11 +1,11 @@
 ---
-title: Time Machine
+title: All Articles
 layout: page
 ---
 
-
+  
   {% for post in site.posts %}
-
+    {% comment %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -15,6 +15,7 @@ layout: page
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
+    {% endcomment %}
 
-    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><small> • {{ post.date | date: site.date_format }}</small></p>
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% comment %}<small> • {{ post.date | date: site.date_format }}</small>{% endcomment %}</p>
   {% endfor %}

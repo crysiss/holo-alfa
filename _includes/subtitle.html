@@ -1,11 +1,19 @@
 <div class="subtitle">
-  <p>
+  <h1>
   {% if site.show-subtitle %}
     {{ site.description.subtitle }}
   {% endif %}
+  </h1>
+  <p>
+  {% if site.show-subtitle %}
+    {{ site.description.home-cta }}
+  {% endif %}
+  </p>
+  {% comment%}
+  <p>
   {% if site.display-social-icons %}
     {% if site.show-subtitle and site.display-social-icons %}
-    <br>
+    <br>    
     {% endif %}
     {{ site.var_on_the_web }}:&nbsp;
     {% if site.twitter %}<a class="fa fa-twitter" href="{{ site.twitter }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
@@ -28,4 +36,5 @@
     {% if site.paypal %}<a class="fa fa-paypal" href="{{ site.paypal }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
   {% endif %}
   </p>
+  {% endcomment%}
 </div>

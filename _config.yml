@@ -6,10 +6,11 @@ title: Rumen Dimitrov title
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Speed up and Optimize your Shopify store for conversions to make more money from your existing traffic
 
   # Description of your site. This will show up on the front page.
-  subtitle: Make more money from your shopify store
+  subtitle: Get More Orders on Your Shopify Store
+  home-cta: <a href="/contact" class="button width--auto">Contact Rumen</a><br/><em>or scroll down to read Rumen’s articles on the topics of Shopify speed and conversion rate optimization</em>
 
 author:
   name: Rumen Dimitrov # Change this!
@@ -52,7 +53,7 @@ theme-color-attr: "#00f0ff"
 ms-tile-color: "#00f0ff"
 
 # Color used throughout the theme. Format: R, G, B.
-theme-color: 0, 240, 255 # Original: 0, 240, 255
+theme-color: 0, 240, 0 # Original: 0, 240, 255
 
 # Text color used throughout the theme. Format: R, G, B.
 text-color: 0, 0, 0 # Original: 0, 0, 0
@@ -75,10 +76,10 @@ date_format: "%b %-d, %Y"
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-paginate: 3
+paginate: 10
 
 # Display links for the previous and next post on post pages.
-display-next-prev-post: false
+display-next-prev-post: true
 
 # Leave empty if you don't want comments on post pages.
 disqus-shortname:

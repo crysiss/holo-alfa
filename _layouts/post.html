@@ -25,23 +25,24 @@ layout: default
 </article>
 
 {% include sign-up-default.html %}
-
+  
 {% if site.display-next-prev-post and page.previous.url or site.display-next-prev-post and page.next.url %}
 <div class="pagination clearfix">
-  <div class="left">
-    {% if page.next.url %}
-      <a href="{{ page.next.url | prepend: site.baseurl }}">‹ {{ site.var_next_post }}</a>
-    {% else %}
-      <span class="disabled">‹ {{ site.var_next_post }}</span>
-    {% endif %}
-  </div>
+  <h3 class="text-align--center">Would you like to read one more?</h3>
   <div class="right">
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url | prepend: site.baseurl }}">{{ site.var_previous_post }} ›</a>
+    {% if page.next.url %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}">{{ page.next.title }}&nbsp;›</a>
     {% else %}
-      <span class="disabled">{{ site.var_previous_post }} ›</span>
-    {% endif %}
+      <!-- <span class="disabled">{{ site.var_next_post }}&nbsp;›</span> -->
+    {% endif %}    
   </div>
+  <div class="left">
+    {% if page.previous.url %}
+      <a class="disabled" href="{{ page.previous.url | prepend: site.baseurl }}">‹&nbsp;{{ page.previous.title }}</a>
+    {% else %}
+      <!-- <span class="disabled">‹&nbsp;{{ site.var_previous_post }}</span> -->
+    {% endif %}
+  </div>  
 </div>
 {% endif %}
 

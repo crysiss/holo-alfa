@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Здравейте!
+title: Здравей!
 cover-image: hipster.jpg
 ---
 
