@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 'To Quick Shop or not to Quick Shop'
+title: 'To Quick Shop or not'
 date: 2019-03-19 10:37 +0200
+permalink: /to-quick-shop-or-not/
 ---
 
 Recently I've been invited to speak on an upcoming Shopify podcast. The host asked me about practical tips for speed optimization that store owners can perform on their websites alone. The first thing I said?
 
-> Turn off the quick shop functionality from your store!
+> Turn off the Quick Shop functionality on your Shopify store!
 
 I’ll explain why in a series of posts. 
 Let’s start with the first reason:
