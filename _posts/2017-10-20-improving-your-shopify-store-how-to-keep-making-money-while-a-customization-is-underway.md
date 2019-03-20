@@ -1,17 +1,6 @@
 ---
-id: 12
 title: Improving your Shopify Store — How to keep making money while a customization is underway?
 date: 2017-10-20T13:28:57+00:00
-author: Rumen Dimitrov
-layout: post
-guid: http://braiv.com/improving-your-shopify-store-how-to-keep-making-money-while-a-customization-is-underway/
-permalink: /improving-your-shopify-store-how-to-keep-making-money-while-a-customization-is-underway/
-restapi_import_id:
-  - 5a61f0a841ba5
-dsq_thread_id:
-  - "6424226723"
-inline_featured_image:
-  - "0"
 image: /wp-content/uploads/2018/01/c8a13-1umcakbzipkluqcplptbxja-e1516369819881-1200x354.jpeg
 categories:
   - Uncategorized
@@ -23,9 +12,10 @@ tags:
 ---
 <figure class="wp-caption"><span style="color: #686868; font-size: 13px; font-style: italic; background-color: transparent; text-align: inherit;">Avoid the mess in your Shopify store, despite its sweetness</span></figure>
 <h3>I’ve seen store owners do a number of puzzling things when they want to improve their store:</h3>
-<h6>• They perform changes on the live store breaking experience for visitors who happen to visit at that time
-• They put the store in development mode and then work on it
-• They stop all their ad traffic</h6>
+* They perform changes on the live store breaking experience for visitors who happen to visit at that time
+* They put the store in development mode and then work on it
+* They stop all their ad traffic
+
 <strong>Dear Shopify Store owners</strong>, I know the approaches above make it easier for you to preview customizations. Yes, they are so tempting!
 
 But just as with chocolate candy, when the sugar rush wears off, you realize you’ve paid a price.

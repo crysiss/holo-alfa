@@ -1,12 +1,6 @@
 ---
 title: Shopify Store Customization — What Is A Reasonable Project Budget?
 date: 2017-06-30T13:37:20+00:00
-restapi_import_id:
-  - 5a61f0a841ba5
-dsq_thread_id:
-  - "6426055879"
-inline_featured_image:
-  - "0"
 image: /wp-content/uploads/2018/01/45a1c-1vbrliph5-qtehcfnsrrhig.jpeg
 categories:
   - Uncategorized

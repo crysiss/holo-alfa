@@ -1,17 +1,6 @@
 ---
-id: 11
 title: Why Food Entrepreneurs Should Setup Conversion Goals in Google Analytics?
 date: 2017-07-28T13:14:39+00:00
-author: Rumen Dimitrov
-layout: post
-guid: http://braiv.com/why-food-entrepreneurs-should-setup-conversion-goals-in-google-analytics/
-permalink: /why-food-entrepreneurs-should-setup-conversion-goals-in-google-analytics/
-restapi_import_id:
-  - 5a61f0a841ba5
-dsq_thread_id:
-  - "6424226597"
-inline_featured_image:
-  - "0"
 image: /wp-content/uploads/2018/01/40b09-12gzud3zmojnef3kv9svjda-1200x800.jpeg
 categories:
   - Uncategorized
