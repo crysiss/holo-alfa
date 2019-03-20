@@ -1,11 +1,8 @@
 ---
-id: 33
 title: Launched Shopify Store a month ago, got almost 1000 visitors, yet no sales. Where is the problem?
 date: 2017-02-28T15:33:27+00:00
 author: Rumen Dimitrov
 layout: post
-guid: http://braiv.com/?p=33
-permalink: /got-1000-visitors-no-sales-shopify/
 dsq_thread_id:
   - "5639980377"
 inline_featured_image:

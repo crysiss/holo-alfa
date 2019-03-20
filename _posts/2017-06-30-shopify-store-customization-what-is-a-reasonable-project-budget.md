@@ -1,11 +1,6 @@
 ---
-id: 156
 title: Shopify Store Customization — What Is A Reasonable Project Budget?
 date: 2017-06-30T13:37:20+00:00
-author: Rumen Dimitrov
-layout: post
-guid: http://braiv.com/shopify-store-customization-what-is-a-reasonable-project-budget/
-permalink: /shopify-store-customization-what-is-a-reasonable-project-budget/
 restapi_import_id:
   - 5a61f0a841ba5
 dsq_thread_id:

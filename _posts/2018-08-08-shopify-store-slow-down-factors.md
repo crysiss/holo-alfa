@@ -1,11 +1,8 @@
 ---
-id: 393
 title: What can slow down the loading of your Shopify store?
 date: 2018-08-08T22:32:47+00:00
 author: Rumen Dimitrov
 layout: post
-guid: https://braiv.com/?p=393
-permalink: /shopify-store-slow-down-factors/
 inline_featured_image:
   - "0"
 categories:

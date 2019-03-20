@@ -1,15 +1,7 @@
 ---
-id: 49
 title: No Sales on Your Shopify Store? Find The Biggest Trust-Killer for Your Visitors
 date: 2017-03-16T15:12:03+00:00
 author: Rumen Dimitrov
-layout: post
-guid: http://braiv.com/?p=49
-permalink: /get-sales-new-shopify-store/
-dsq_thread_id:
-  - "5639980344"
-inline_featured_image:
-  - "0"
 categories:
   - Uncategorized
 ---
