@@ -9,7 +9,7 @@ Even those staring at water for hours on end couldn’t bear the boring 12 secon
 
 I started with updating the store theme to its latest version. But the theme updater app couldn’t deal with it on its own. Fixing the errors by hand I’ve discovered a bunch of suspicious files. I couldn’t attribute them to any of the apps Brian got already installed. Or he was using services that weren’t on the Shopify App Store, hence no trace of them in his store’s Apps section. I had to check.
 
-To be sure, I asked the Brian for confirmation of my suspicions:
+To be sure, I asked Brian for confirmation of my suspicions:
 
 — Brian, are you using this app?—I asked, pointing at a marketing website promoting a Shopify app I traced the code back to.
 
