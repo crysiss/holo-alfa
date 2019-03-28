@@ -29,7 +29,7 @@ Yet, the initial experience of most apps is designed for stores with low to non-
 {% capture full_link %}{% post_url 2017-10-20-improving-your-shopify-store-how-to-keep-making-money-while-a-customization-is-underway %}{% endcapture %}
 [Implementing changes should be done on a staging theme, away from visitors’ eyes until you are ready to publish the feature]({{ full_link | absolute_url }}).
 
-If I were a store owner, I don't want visitors to see a broken store with two chat apps at the same time! I don’t want to have to put the site into “maintenance mode” just so I can test a new app. 
+If I were a store owner, I wouldn't want visitors to see a broken store with two chat apps at the same time! I don’t want to have to put the site into “maintenance mode” just so I can test a new app. 
 
 What happens if a visitor uses one of the two chat apps while I’m playing with its settings and end up uninstalling it in desperation 10 minutes later? The message will be lost. The sale will be lost. The customer will be gone. There—the app is costing me money before it makes me any.
 
