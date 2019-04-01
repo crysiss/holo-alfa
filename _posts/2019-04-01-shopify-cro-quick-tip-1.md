@@ -1,6 +1,6 @@
 ---
 title: 'Shopify CRO Quick Tip #1'
-date: 2019-04-01 14:54
+date: 2019-04-01 14:54 +0300
 ---
 
 > Use your website on your smartphone
