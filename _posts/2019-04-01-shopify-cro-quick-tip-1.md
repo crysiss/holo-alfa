@@ -1,9 +1,7 @@
 ---
-title: 'Shopify CRO Quick Tip #1'
+title: 'Shopify CRO Quick Tip #1—Use your website on your smartphone'
 date: 2019-04-01 14:54 +0300
 ---
-
-> Use your website on your smartphone
 
 The fastest way to understand your potential customers is to put yourself in their shoes. The closer you can get to their thinking and the way they see your website, the better.
 
