@@ -2,6 +2,7 @@
 layout: page
 title: Hello
 # cover-image: daria-nepriakhina-107503-unsplash.jpg
+permalink: /about/
 ---
 
 <img src="/img/square_flipped-300x300.png" alt="Rumen Dimitrov—Shopify Conversion Optimization Expert" style="border-radius: 100%;"/>

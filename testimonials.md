@@ -3,6 +3,7 @@ title: Testimonials
 date: 2018-03-20T14:05:19+00:00
 author: Rumen Dimitrov
 layout: page
+permalink: /testimonials/
 ---
 
 
