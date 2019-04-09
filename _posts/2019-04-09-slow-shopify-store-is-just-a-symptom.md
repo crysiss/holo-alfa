@@ -5,7 +5,7 @@ date: 2019-04-09 15:43 +0300
 
 ...because there is no turn-key solution to speeding up your website. Problems in a number of different areas contribute to its overall slow down.
 
-{%- capture full_link -%}{% post_url 2019-03-25-zombie-code—one-more-reason-for-a-slow-shopify-store %}{%- endcapture -%}
+{% capture full_link %}{% post_url 2019-03-25-zombie-code—one-more-reason-for-a-slow-shopify-store %}{% endcapture %}
 **A slow Shopify website is a sign of one or more of the following issues**, starting from most frequently observed:
 1. **Broken toolset** — when the tools (apps, themes, assets) are broken, but you don’t know it, your visitors suffer. Examples for broken tools:
 - theme features not coded with users’ limitations in mind
