@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to the Daily Emails!
-permalink: /welcome
+permalink: /welcome/
 ---
 
 I'm happy to have you on board! 
