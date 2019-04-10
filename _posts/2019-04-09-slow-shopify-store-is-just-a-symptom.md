@@ -34,4 +34,4 @@ When issues from these three main areas start interacting with each other they p
 For example, not realizing there is no hover on mobile (device limitation) may lead you to believe that QuickShop is a good idea and it is actually helping your visitors ([No, it isn’t]({{ full_link | absolute_url }})). In such a case, instead of trying to speed up the quick view overlay, removing it completely will solve a number of user experience problems in one go. You’ll also get a faster website as an added bonus.
 
 {% capture full_link %}{% post_url 2019-03-27-how-to-avoid-zombie-code %}{% endcapture %}
-Some issues from these three main areas you could take care of yourself, some of them you could [avoid in the first place]({{ full_link | absolute_url }}). How do you fix them is a topic I’ll explore in a series of articles.
+Some issues from these three main areas you could take care of yourself, some of them you could [avoid in the first place]({{ full_link | absolute_url }}). 
