@@ -370,16 +370,15 @@ footer .inner {
   background-image: none;
   text-decoration: none !important;
   color: rgba({{ site.text-color }}, .76);
-  /*background: rgb({{ site.background-color }});*/
+  /*background: rgba({{ site.background-color }}, 0.5);*/
 }
 nav a {
   display: block;
   padding: 5px;
   text-align: center;
   background-image: none;
-  background: rgb({{ site.background-color }});
+  background-color: rgba({{ site.background-color }}, 0.5);  
   text-decoration: none !important;
-  border-radius: 4px;
   overflow: hidden;
   position: relative;
 }
@@ -489,6 +488,7 @@ nav a.current {
   nav a {
     display: inline-block;
     padding: 5px 8px;
+    border-radius: 4px;
   }
   .website-title {
     margin-bottom: 80px;
