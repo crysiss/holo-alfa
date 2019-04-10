@@ -79,9 +79,6 @@ li {
   margin: 20px 0;
   line-height: 1.4;
 }
-/*li * {
-  line-height: 1em; /* Bold font line-height fix */
-}*/
 img {
   max-width: 100%;
   display: block;
