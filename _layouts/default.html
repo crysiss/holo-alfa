@@ -6,7 +6,14 @@
 <body>
 	{% if page.cover-image %}
 	<div class="cover-image-container">
-		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+		{% if page.cover-image-mobile %}
+		<picture>
+		  <source media="(min-width: 600px)" srcset="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">
+		  <img src="{{ site.baseurl }}/img/covers/{{ page.cover-image-mobile }}" alt="Cover Image">
+		</picture>
+		{% else %}
+		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">		
+		{% endif %}
 	</div>
 	{% endif %}
 	<div class="wrap">
