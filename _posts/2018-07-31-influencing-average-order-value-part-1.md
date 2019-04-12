@@ -11,7 +11,7 @@ inline_featured_image:
 categories:
   - Shopify Conversion Rate Optimization Tips
 ---
-Here is the last variable from the <a href="http://braiv.com/the-revenue-equation/">revenue formula</a>—how do you influence the average order value (AOV) of your store?
+Here is the last variable from the <a href="/the-revenue-equation/">revenue formula</a>—how do you influence the average order value (AOV) of your store?
 
 If you increase traffic, increase conversion rate, but drastically decrease AOV, your revenue won’t go up. Your customer support efforts, order fulfillment and admin will undoubtedly jump through the roof, though. So you should aim to increase your average order value over time, not decrease it.
 

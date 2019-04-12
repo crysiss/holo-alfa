@@ -1,7 +1,7 @@
 ---
 title: Improving your Shopify Store — How to keep making money while a customization is underway?
 date: 2017-10-20T13:28:57+00:00
-image: /wp-content/uploads/2018/01/c8a13-1umcakbzipkluqcplptbxja-e1516369819881-1200x354.jpeg
+cover-image: /wp-content/uploads/2018/01/c8a13-1umcakbzipkluqcplptbxja-e1516369819881-1200x354.jpeg
 categories:
   - Uncategorized
 tags:
@@ -54,11 +54,11 @@ Just duplicate your live theme (and invite a professional to work on it).
 <em>Insist that they are going to work on the “staging” theme, so that you protect the function of your revenue-generating live store.</em>
 
 <strong>How do you duplicate the live theme?</strong>
-<figure><img class="alignnone size-full wp-image-163" src="http://braiv.com/wp-content/uploads/2018/01/c1e9b-1nubq0zl6asy_8rrdhlb1xa.png" alt="" width="388" height="316" /></figure>
+<figure><img class="alignnone size-full wp-image-163" src="/wp-content/uploads/2018/01/c1e9b-1nubq0zl6asy_8rrdhlb1xa.png" alt="" width="388" height="316" /></figure>
 On the Themes screen in Shopify Admin there is an “Actions” dropdown. Click it and select “Duplicate”.
 
 <strong>How do you preview changes without having to publish the theme?</strong>
-<figure><img class="alignnone size-full wp-image-26" src="http://braiv.com/wp-content/uploads/2018/01/5c66b-1qja8a8emw1hjibxc0rolnq.png" alt="" width="388" height="417" /></figure>
+<figure><img class="alignnone size-full wp-image-26" src="/wp-content/uploads/2018/01/5c66b-1qja8a8emw1hjibxc0rolnq.png" alt="" width="388" height="417" /></figure>
 On your new copy of the theme, from that same “Actions” dropdown, select “Preview” and you’ll get a new tab with your store “dressed” in that theme.
 
 This way you can even compare “Before” and “After” states of your store or back your store up before important changes, so that you are always a click away from a working Shopify theme.
@@ -67,4 +67,4 @@ This way you can even compare “Before” and “After” states of your store 
 
 <em>Have you checked the PageSpeed rating of your Shopify Store lately?
 If you score below 85/100 (particularly on mobile) I can definitely help!
-</em><a href="http://braiv.com/services/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization</em></a><a href="http://braiv.com/services/#shopify-speed-optimization" target="_blank" rel="noopener"><em>⚡️</em></a>
+</em><a href="/increase-shopify-sales/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization⚡️</em></a>

@@ -10,7 +10,7 @@ dsq_thread_id:
   - "6453930124"
 inline_featured_image:
   - "0"
-image: /wp-content/uploads/2018/02/nigel-tadyanehondo-200541_cropped-1200x675.jpg
+cover-image: /wp-content/uploads/2018/02/nigel-tadyanehondo-200541_cropped-1200x675.jpg
 categories:
   - Uncategorized
 ---
@@ -57,4 +57,4 @@ And before you say “But that’s just stupid, everybody knows they shouldn’t
 Create a staff account instead!
 <h3>Low conversion rate on your drop shipping store?</h3>
 If you get CR below 1.5% I can definitely help!
-Stop suffering and check my <a href="http://braiv.com/increase-shopify-sales/monthly/">⚡️Shopify Conversion Optimization⚡️</a> service
+Stop suffering and check my <a href="/increase-shopify-sales/monthly/">⚡️Shopify Conversion Optimization⚡️</a> service

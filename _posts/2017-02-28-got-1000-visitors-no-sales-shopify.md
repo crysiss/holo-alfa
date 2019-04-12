@@ -3,10 +3,6 @@ title: Launched Shopify Store a month ago, got almost 1000 visitors, yet no sale
 date: 2017-02-28T15:33:27+00:00
 author: Rumen Dimitrov
 layout: post
-dsq_thread_id:
-  - "5639980377"
-inline_featured_image:
-  - "0"
 categories:
   - Uncategorized
 ---
@@ -71,7 +67,7 @@ Let me tell you how we got to this point:
  	<li>I trusted you and I came to your site.</li>
  	<li>Here is what I saw:</li>
 </ol>
-<img class="alignnone size-large wp-image-40" src="http://braiv.com/wp-content/uploads/2017/02/japan_rush_hour-1024x576.jpg" alt="japan_rush_hour" width="840" height="473" />
+<img class="alignnone size-large wp-image-40" src="/wp-content/uploads/2017/02/japan_rush_hour-1024x576.jpg" alt="japan_rush_hour" width="840" height="473" />
 I saw that a Japanese train station officers tried to stuff the words and sentences into the page like passengers in an overflowing train car…
 
 <strong>Well, that’s when my trust for your site started evaporating.</strong>
@@ -80,7 +76,7 @@ Sadly, I, the customer, become too wary when I get even the slightest notion som
 
 I may not be able to pin-point the issue, but I’ll feel it in my gut. That’s when my trust for your site evaporates.
 
-<img class="alignnone size-full wp-image-38" src="http://braiv.com/wp-content/uploads/2017/02/OnlineStorePerception.jpg" alt="OnlineStorePerception" width="640" height="1387" />
+<img class="alignnone size-full wp-image-38" src="/wp-content/uploads/2017/02/OnlineStorePerception.jpg" alt="OnlineStorePerception" width="640" height="1387" />
 
 And I wouldn’t put my credit card number into a site that <em>I don’t trust</em>.
 

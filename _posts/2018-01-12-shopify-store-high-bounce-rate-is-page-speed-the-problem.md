@@ -4,7 +4,6 @@ title: “My Shopify Store Has a High Bounce Rate. Is Page Speed the Problem?”
 date: 2018-01-12T15:59:01+00:00
 author: Rumen Dimitrov
 layout: post
-guid: https://braiv.com/?p=135
 permalink: /shopify-store-high-bounce-rate-is-page-speed-the-problem/
 dsq_thread_id:
   - "6409055428"
@@ -31,7 +30,7 @@ Let me explain:
 
 Back when you were in school, have you ever entered the wrong class room?
  
-<img src="http://braiv.com/wp-content/uploads/2018/01/neonbrand-426918-1024x637.jpg" alt="" width="840" height="523" class="alignnone size-large wp-image-139" />
+<img src="/wp-content/uploads/2018/01/neonbrand-426918-1024x637.jpg" alt="" width="840" height="523" class="alignnone size-large wp-image-139" />
 
 You immediately understood that your shouldn’t be there—the teacher wasn’t the one you expected, the kids were different and the frogs on the tables weren’t supposed to be in your Literature class. 
 
@@ -49,7 +48,7 @@ But, there is one exception.
 
 How do I know that?
 
-As an expert in <a href="http://braiv.com/services/shopify-pagespeed-optimization/">Shopify PageSpeed optimization</a>, I’ve worked with stores that had terrible total load times—20 seconds per product page being the worst I’ve seen. So far.
+As an expert in <a href="/increase-shopify-sales/shopify-pagespeed-optimization/">Shopify PageSpeed optimization</a>, I’ve worked with stores that had terrible total load times—20 seconds per product page being the worst I’ve seen. So far.
 
 What I was also amazed to see was that this didn’t stop the stores from making $500k to $1.5M in yearly revenue.
 
@@ -76,4 +75,4 @@ Then your page speed (and overall site usability) is a bigger issue than the exa
 
 <h3>Have you checked the PageSpeed rating of your Shopify Store lately?</h3>
 
-If you score below 85/100 (particularly on mobile) I can definitely help!&nbsp;<br />Learn more about my <a href="http://braiv.com/services/shopify-pagespeed-optimization/">⚡️Shopify PageSpeed Optimization⚡️</a> service
+If you score below 85/100 (particularly on mobile) I can definitely help!&nbsp;<br />Learn more about my <a href="/increase-shopify-sales/shopify-pagespeed-optimization/">⚡️Shopify PageSpeed Optimization⚡️</a> service

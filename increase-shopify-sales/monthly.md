@@ -4,7 +4,7 @@ title: Increase Shopify Sales Every Month
 date: 2018-02-02T12:34:48+00:00
 author: 4dm1n
 layout: page
-guid: http://braiv.com/?page_id=189
+guid: /?page_id=189
 ---
 <strong>You drive a ton of traffic to your store, only to see it not converting the way you want. </strong>
 

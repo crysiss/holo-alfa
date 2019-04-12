@@ -2,11 +2,7 @@
 id: 220
 title: Initial Setup
 date: 2018-02-24T13:17:02+00:00
-author: 4dm1n
 layout: page
-guid: http://braiv.com/?page_id=220
-inline_featured_image:
-  - "0"
 ---
 To start the work on your Shopify store I need two components ready:
 <ol>

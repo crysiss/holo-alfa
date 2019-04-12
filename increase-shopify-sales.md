@@ -18,7 +18,7 @@ Scroll down and pick the one that answers your needs at the moment!
 <hr />
 
 <h2>Shopify Roadmapping Session</h2>
-<img class="wp-image-205 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-roadmapping.svg" alt="" width="200" height="200" />
+<img class="wp-image-205 alignnone service-icon" src="/wp-content/uploads/2018/02/shopify-roadmapping.svg" alt="" width="200" height="200" />
 <strong>Want to know how to start a project to increase Shopify sales</strong>?
 
 With a laser-focused 60-minute Skype call you’ll get my strategy on tackling the specific issues you face towards increasing sales on your Shopify store.
@@ -30,7 +30,7 @@ In this call we’ll develop a shared understanding of your goals for the projec
 <a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2>Shopify Speed Optimization</h2>
-<img class="wp-image-206 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-speed-optimization.svg" alt="" width="200" />
+<img class="wp-image-206 alignnone service-icon" src="/wp-content/uploads/2018/02/shopify-speed-optimization.svg" alt="" width="200" />
 <strong>Is mobile speed a limiting factor of in your strive to increase Shopify sales on your store</strong>?
 
 Do you believe that providing a better shopping experience on your store will increase your Shopify sales?
@@ -42,7 +42,7 @@ I can help you get to <strong>load speeds of under 4 seconds and PageSpeed score
 <a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2 id="shopify-conversion-audit">Shopify Conversion Audit</h2>
-<img class="wp-image-204 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-conversion-audit.svg" alt="" width="200" />
+<img class="wp-image-204 alignnone service-icon" src="/wp-content/uploads/2018/02/shopify-conversion-audit.svg" alt="" width="200" />
 <strong>Do you feel disappointed when you see the &lt;1% conversion rate in your Shopify dashboard</strong>?
 
 You've tried a lot of tricks, followed a lot of online articles and still, it doesn't move a bit. That’s a sign your store is still chasing customers away.
@@ -58,7 +58,7 @@ I can help you identify the areas that kill your conversion rate and provide pro
 <a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2>Increase Shopify Sales (Monthly Conversion Optimization)</h2>
-<img class="wp-image-203 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/increase-shopify-sales.svg" alt="" width="200" />
+<img class="wp-image-203 alignnone service-icon" src="/wp-content/uploads/2018/02/increase-shopify-sales.svg" alt="" width="200" />
 <strong>You drive a ton of traffic to your store, only to see it not converting the way you want. </strong>
 
 The conversion rate you get is waaaay below the 1.5-3% industry average range. You want to capitalize on the e-commerce opportunity, but your current Shopify site performs worse than you expect.
@@ -75,7 +75,7 @@ Would you like to offer better shopping experience on your Shopify store? Would 
 
 I can help you tweak your Shopify store to better serve the needs of your customers.
 
-This service starts from $299. <a href="http://braiv.com/contact/" target="_blank">Contact me for more info</a>.
+This service starts from $299. <a href="/contact/" target="_blank">Contact me for more info</a>.
 
 -->
 <style>

@@ -1,7 +1,7 @@
 ---
 title: Shopify Store Customization — What Is A Reasonable Project Budget?
 date: 2017-06-30T13:37:20+00:00
-image: /wp-content/uploads/2018/01/45a1c-1vbrliph5-qtehcfnsrrhig.jpeg
+cover-image: /wp-content/uploads/2018/01/45a1c-1vbrliph5-qtehcfnsrrhig.jpeg
 categories:
   - Uncategorized
 tags:
@@ -69,4 +69,4 @@ So, what is your budget?
 
 <em>Have you checked the PageSpeed rating of your Shopify Store lately?
 If you score below 85/100 (particularly on mobile) I can definitely help!
-</em><a href="http://braiv.com/services/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization⚡️ service</em></a>
+</em><a href="/increase-shopify-sales/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization⚡️ service</em></a>

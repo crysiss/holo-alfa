@@ -4,9 +4,6 @@ title: Why Full Access?
 date: 2018-02-24T13:26:47+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=223
-inline_featured_image:
-  - "0"
 ---
 <strong>To start the work on your store I need two components ready</strong>:
 1. Access to your Shopify Admin (Themes and some other areas)

@@ -4,15 +4,8 @@ title: Shopify Optimization — When is The Time to Ditch That App?
 date: 2018-01-05T13:58:28+00:00
 author: Rumen Dimitrov
 layout: post
-guid: http://braiv.com/shopify-optimization-when-is-the-time-to-ditch-that-app/
 permalink: /shopify-optimization-when-is-the-time-to-ditch-that-app/
-restapi_import_id:
-  - 5a61f0a841ba5
-dsq_thread_id:
-  - "6424226896"
-inline_featured_image:
-  - "0"
-image: /wp-content/uploads/2018/01/0d192-1e7pukfbf9dvoghfgzcxjlw-e1516369624832-1200x378.jpeg
+cover-image: /wp-content/uploads/2018/01/0d192-1e7pukfbf9dvoghfgzcxjlw-e1516369624832-1200x378.jpeg
 categories:
   - Uncategorized
 tags:
@@ -28,7 +21,7 @@ Many of the apps run on a subscription plan.
 
 And this is good, too, because you are paying for the value you get and supporting the developers so you can continue getting the value.
 <h3><strong>But what happens when the value simply isn’t there for you?</strong></h3>
-<!--more-->I’ve recently reviewed a “Messenger list building” app for a client as part of a <a href="http://braiv.com/services/#shopify-speed-optimization" target="_blank" rel="noopener">Shopify Store Optimization</a>.
+<!--more-->I’ve recently reviewed a “Messenger list building” app for a client as part of a <a href="/increase-shopify-sales/#shopify-speed-optimization" target="_blank" rel="noopener">Shopify Store Optimization</a>.
 
 The app claimed that it can recover a high percentage of abandoned carts and create a list of people which you can later market to. All this via Facebook’s Messenger instead of email.
 
@@ -80,4 +73,4 @@ As you remove the apps you don’t need, don’t forget to keep an eye on the Sh
 
 <em>Have you checked the PageSpeed rating of your Shopify Store lately?
 If you score below 85/100 (particularly on mobile) I can definitely help!
-</em><a href="http://braiv.com/services/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization⚡️ service</em></a>
+</em><a href="/increase-shopify-sales/#shopify-speed-optimization" target="_blank" rel="noopener"><em>Learn more about my ⚡️Shopify Speed Optimization⚡️ service</em></a>
