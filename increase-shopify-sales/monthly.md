@@ -12,4 +12,4 @@ The conversion rate you get is waaaay below the 1.5-3% industry average range. Y
 
 With my help you can fix that. After we increase your store's conversion rate you can lower your advertising costs and in turn increase profit. And I can keep you on track for high results every month through A/B new ways to improve your visitor's shopping experience.
 
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
+<a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>

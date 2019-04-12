@@ -1,12 +1,8 @@
 ---
-id: 82
 title: Increase Shopify Sales
 date: 2017-06-05T11:14:23+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=82
-inline_featured_image:
-  - "0"
 ---
 To be able to increase Shopify sales you have to know the following:
 <ol>
@@ -30,7 +26,7 @@ In this call we’ll develop a shared understanding of your goals for the projec
 
 <strong>You’ll end up with a clear idea what needs to be done so you can increase sales on your store</strong>.
 
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
+<a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2>Shopify Speed Optimization</h2>
 <img class="wp-image-206 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-speed-optimization.svg" alt="" width="200" />
@@ -42,7 +38,7 @@ When you speed up your home, product and category pages your customers can find 
 
 I can help you get to <strong>load speeds of under 4 seconds and PageSpeed score of 85+/100</strong>.
 
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
+<a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2 id="shopify-conversion-audit">Shopify Conversion Audit</h2>
 <img class="wp-image-204 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-conversion-audit.svg" alt="" width="200" />
@@ -58,7 +54,7 @@ Would you like to know what to change on your store, so people start buying more
 
 I can help you identify the areas that kill your conversion rate and provide professional suggestions <strong>how to increase Shopify sales</strong>.
 
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
+<a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
 <h2>Increase Shopify Sales (Monthly Conversion Optimization)</h2>
 <img class="wp-image-203 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/increase-shopify-sales.svg" alt="" width="200" />
@@ -68,17 +64,9 @@ The conversion rate you get is waaaay below the 1.5-3% industry average range. Y
 
 With my help you can fix that. After we increase your store's conversion rate you can lower your advertising costs and in turn increase profit. And I can keep you on track for high results every month through A/B new ways to improve your visitor's shopping experience.
 
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
-<!--
-<h2>Shopify Store Revamp</h2>
-<img class="wp-image-207 alignnone service-icon" src="http://braiv.com/wp-content/uploads/2018/02/shopify-store-redesign.svg" alt="" width="200" />
-<strong>Would you like to present your brand better, engaging customers in the stories you want to tell</strong>?
+<a href="/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a>
 
-I can help you redesign your store to better serve the needs of your customers and increase Shopify sales in return.
-
-<a href="http://braiv.com/contact/" target="_blank" rel="noopener">Contact me for current pricing and more info</a> -->
-
-<em>For your convenience, I'm offering my best Shopify services as low-risk, fixed-price, fixed-scope packages. If you didn't find a package to meet your needs, drop me a line at <a href="mailto:rumen@braiv.com">rumen@braiv.com</a> to discuss a custom engagement.</em>
+<em>For your convenience, I'm offering my best Shopify services as low-risk, fixed-price, fixed-scope packages. If you didn't find a package to meet your needs, drop me a line at <a href="mailto:rumen@rumendimitrov.com">rumen@rumendimitrov.com</a> to discuss a custom engagement.</em>
 
 <!--
 <h2>Shopify Theme Customization</h2>

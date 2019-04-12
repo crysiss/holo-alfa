@@ -4,7 +4,7 @@ title: Shopify Red Flags Audit
 date: 2017-05-11T15:19:31+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=65
+
 ---
 <h1>“Over the last 3 weeks we’ve had approximately 500 unique visitors and ZERO sales”</h1>
 You’ve been working on your Shopify store tirelessly for the past weeks. You’ve launched it. You have hundreds of people coming, yet they leave without buying.
@@ -66,7 +66,7 @@ The “Shopify Red Flags Audit” will give you:
 </ul>
 You don’t want to pull the plug on your shopify store just yet. You’ve done so much work, it would be a shame.
 <h3>Get People Shopping On Your Online Store</h3>
-<a class="fasc-button fasc-size-medium fasc-type-flat fasc-ico-before dashicons-desktop" style="background-color: #33809e; color: #ffffff;" href="/contact" data-fasc-style="background-color:#33809e;color:#ffffff;">Request Your Shopify Red Flags Audit Now</a>
+<a class="button width--auto" href="/contact">Request Your Shopify Red Flags Audit Now</a>
 <h2>How much does the Shopify Red Flags Audit cost? How long will it take?</h2>
 For $199 you’ll get an actionable audit report described above.
 
@@ -74,6 +74,6 @@ If you order right now, you’ll get your audit report within 2 business days af
 
 I provide a full 100% money-back guarantee on this offering. If you’re not happy with the audit results — I’ll give you a full refund, no questions asked.
 <h2>I’m interested! How do we get started?</h2>
-Please <a href="http://braiv.com/contact/" target="_blank" rel="noopener noreferrer">contact me</a> briefly describing your brand, your target audience and providing your store URL. If you’re a good fit for the audit, I’ll send you a scheduling link for the initial consultation.
+Please <a href="/contact/" target="_blank">contact me</a> briefly describing your brand, your target audience and providing your store URL. If you’re a good fit for the audit, I’ll send you a scheduling link for the initial consultation.
 <h2>I have more questions about this service...</h2>
-And I'm happy to answer them. Please <a href="http://braiv.com/contact/" target="_blank" rel="noopener noreferrer">contact me</a> and I'll do my best to help you.
+And I'm happy to answer them. Please <a href="/contact/" target="_blank">contact me</a> and I'll do my best to help you.

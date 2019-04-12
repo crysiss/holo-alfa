@@ -1,13 +1,11 @@
 ---
-id: 120
 title: Would you like more sales from your Shopify store?
 date: 2017-11-28T12:42:15+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=120
-sharing_disabled:
-  - "1"
+permalink: /kpfg/
 ---
+
 <h3>I can help you get:</h3>
 <ul>
 	<li>More people checking out</li>
@@ -32,6 +30,4 @@ shop.theestateofthings.com
 
 <hr/>
 
-Braiv is a <b>solo design consultancy</b> that helps you, a Shopify store owner, <b>increase revenue by focusing on the needs of your customers</b>. Unlike other Shopify Consultancies, Braiv uses design, front-end development and UX to remove customers’ friction towards purchasing.
-
-<a href="http://braiv.com/contact/">Interested in working together? </a>
+<a href="/contact/" class="button width--auto">Interested in working together?</a>

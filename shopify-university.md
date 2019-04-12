@@ -1,16 +1,16 @@
 ---
-id: 19
 title: Hi There Shopify E-Commerce University Fellow!
 date: 2017-01-18T16:37:09+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=19
 ---
+
 You are here because I've either replied to your post (hopefully with some useful info) or you read a post where I tried to help another forum member solve their problems.
 
 <h4>Do you have a Shopify store related problem that you need help with?</h4> 
 I may be able to help you solve it or suggest a way you can solve it yourself.
-<a class="button" href="http://braiv.com/contact/">Get Professional Shopify Help Now</a> 
+
+<a class="button width--auto" href="/contact/">Get Professional Shopify Help Now</a> 
 
 <h3>What others are saying</h3>
 <blockquote>“Rumen nailed another wishlist item for our business, turning a notion into reality. This new functionality saves us so much time and makes managing our customer's understanding of each product so much less tedious on the backend! Many thanks Rumen!”</blockquote>
@@ -48,4 +48,4 @@ It goes like this:
 2. I tell you how could this be fixed and suggest improvements
 3. We start working together on improving the success rate of your Shopify Store
 
-<a class="button" href="http://braiv.com/contact/">Solve Your Most Nagging Shopify Store Problem</a> 
+<a class="button width--auto" href="/contact/">Solve Your Most Nagging Shopify Store Problem</a> 

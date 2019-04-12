@@ -1,12 +1,8 @@
 ---
-id: 42
 title: Interested in migrating your OpenCart store?
 date: 2017-03-08T08:51:24+00:00
 author: Rumen Dimitrov
 layout: page
-guid: http://braiv.com/?page_id=42
-sharing_disabled:
-  - "1"
 ---
 Are you tired of fiddling with OpenCart's plug-ins, themes and constant technical complications? Would you like to just focus on managing your store and increasing sales, all without having to keep up with the hurdles the OpenCart system puts on your way?
 
@@ -16,7 +12,7 @@ Shopify is a industry-leading hosted e-commerce solution that removes the need f
 
 And I can help you migrate your OpenCart store to Shopify as I've been working with both platforms for quite some time.
 
-<a href="http://braiv.com/contact/" rel="noopener" target="_blank">Contact me for more details</a>
+<a href="/contact/" class="button width--auto">Contact me to get started</a>
 
 <hr />
 
@@ -36,4 +32,4 @@ shop.theestateofthings.com
 <hr />
 
 <h3>Interested in working together?</h3>
-<a href="http://braiv.com/contact/">Contact me for more details</a>
+<a href="contact/" class="button width--auto">Contact me for more details</a>
