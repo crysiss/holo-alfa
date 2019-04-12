@@ -3,6 +3,7 @@ title: Hi There Shopify E-Commerce University Fellow!
 date: 2017-01-18T16:37:09+00:00
 author: Rumen Dimitrov
 layout: page
+permalink: /shopify-university/
 ---
 
 You are here because I've either replied to your post (hopefully with some useful info) or you read a post where I tried to help another forum member solve their problems.

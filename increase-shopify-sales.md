@@ -3,6 +3,7 @@ title: Increase Shopify Sales
 date: 2017-06-05T11:14:23+00:00
 author: Rumen Dimitrov
 layout: page
+permalink: /increase-shopify-sales/
 ---
 To be able to increase Shopify sales you have to know the following:
 <ol>

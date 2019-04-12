@@ -3,6 +3,7 @@ title: Interested in migrating your OpenCart store?
 date: 2017-03-08T08:51:24+00:00
 author: Rumen Dimitrov
 layout: page
+permalink: /omf/
 ---
 Are you tired of fiddling with OpenCart's plug-ins, themes and constant technical complications? Would you like to just focus on managing your store and increasing sales, all without having to keep up with the hurdles the OpenCart system puts on your way?
 

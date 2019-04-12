@@ -3,7 +3,7 @@ title: Would you like more sales from your Shopify store?
 date: 2017-11-28T12:42:15+00:00
 author: Rumen Dimitrov
 layout: page
-permalink: /kpfg/
+permalink: /kfpg/
 ---
 
 <h3>I can help you get:</h3>
