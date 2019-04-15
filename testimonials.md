@@ -6,6 +6,8 @@ layout: page
 permalink: /testimonials/
 ---
 
+<meta http-equiv="refresh" content="0; url={{ '/praise/' | absolute_url }}">
+<link rel="canonical" href="{{ '/praise/' | absolute_url }}" />
 
 Here is what others have said about our Shopify Speed Optimization work together:
 >Rumen was a very professional, skilled individual to work with. Very intelligent, and was able to deliver our site speed optimization issue with success. Highly recommended!
