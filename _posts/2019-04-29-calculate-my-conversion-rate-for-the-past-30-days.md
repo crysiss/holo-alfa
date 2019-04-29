@@ -3,9 +3,9 @@ title: 'How can I calculate my store’s conversion rate for the past 30 days?'
 date: 2019-04-29 17:29 +0300
 ---
 
-There is a formula you can use, but you can also find the metric calculated for you in Google Analytics and your Shopify dashboard. Still, understanding what goes into that number will help you filter out noise in your data.
+There is a formula you can use, but you can also find the metric calculated for you in Google Analytics and your Shopify dashboard. Still, understanding what goes into that number will help you filter out the noise from your data.
 
-## First, the formula
+## The formula
 Your conversion rate for the past 30 days is the total number of orders on your store for the same period, divided by the total sessions for that period.
 
 Example:
