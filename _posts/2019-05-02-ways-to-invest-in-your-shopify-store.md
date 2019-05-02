@@ -14,4 +14,5 @@ Your website is a system. The more you tune it to work the way you want it to, t
 * Develop a content strategy and start executing it
 * Improve SEO
 * [Start a Conversion Rate Optimization practice]({{ '/what-is-the-simplest-cro-habit-you-can-get-into-now.html' | absolute_url }})
+
 Spending money now (by being [Facebook’s asset]({{ '/facebook-ads-an-asset-or-a-liability.html' | absolute_url }})) to make more money now but with no upside in the future won't get you far. Pick a project from the top of the list, work on it and move to the next one.
