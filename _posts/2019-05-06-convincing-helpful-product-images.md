@@ -1,5 +1,5 @@
 ---
-title: 'Convincing Helpful Product Images'
+title: 'Convincing, Helpful Product Images'
 date: 2019-05-06 22:27 +0300
 ---
 
