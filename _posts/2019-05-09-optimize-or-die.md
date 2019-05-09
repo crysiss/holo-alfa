@@ -14,6 +14,6 @@ Your abandoned carts are becoming orders on their stores.
 ----
 Most of your visitors share your goal—to get your products in their hands.
 
-But if the process of going from “I want this” to “I  ordered, yay!” isn't as smooth as possible, they’ll use the competitor who has a simpler website. 
+But if the process of going from “_I want this_” to “_I  ordered, yay!_” isn't as smooth as possible, they’ll use the competitor who has a simpler website. 
 
 Reduce the friction towards that end goal. Make shopping easy for customers and they'll make hitting your biz goals much easier.
