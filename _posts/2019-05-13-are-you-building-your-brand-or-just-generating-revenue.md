@@ -1,5 +1,5 @@
 ---
-title: 'Confession time! Are you building your brand or just generating revenue?'
+title: 'Are you building your brand or just generating revenue?'
 date: 2019-05-13 12:23 +0300
 ---
 
