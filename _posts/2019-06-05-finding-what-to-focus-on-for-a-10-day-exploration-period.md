@@ -8,7 +8,7 @@ date: 2019-06-05 12:33 +0300
 
 If you have no idea what to focus on right now, here is a list of questions to make it clearer for you:
 
-## 1. Where do you think is the bottleneck in your e-commerce site? 
+## 1. Where do you think is the bottleneck in your Shopify store? 
 1. Do you get a lot of traffic, but a low conversion rate? 
 2. Do you pay a lot for traffic and want to reduce that expense? 
 3. Do people come back for second and third orders? 
