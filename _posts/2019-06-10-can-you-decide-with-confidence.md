@@ -1,5 +1,5 @@
 ---
-title: 'Can you decide with confidence'
+title: 'Can you decide with confidence?'
 date: 2019-06-10 20:24 +0300
 ---
 
