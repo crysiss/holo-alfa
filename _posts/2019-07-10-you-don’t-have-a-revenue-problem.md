@@ -15,7 +15,7 @@ Work on the system, not in it.
 
 With fewer orders to fulfill you have time that you can invest in improving your Shopify store. You could:
 * Educate yourself on sales funnels and common objections people have before buying
-* [look at your Shopping behavior report to spot funnel drops] ({{ '/shopify-cro-quick-tip-3.html' | absolute_url }})
+* [look at your Shopping behavior report to spot funnel drops]({{ '/shopify-cro-quick-tip-3.html' | absolute_url }})
 * [look at the pages that precede the drop on your smartphone]({{ '/shopify-cro-quick-tip-1.html' | absolute_url }}), tablet, and computer. SLOWLY. Do you notice anything that might be detrimental to the browsing experience? Note that down.
 * show these pages to real people and observe their reactions. Were there any confusions? Note that down.
 
