@@ -16,8 +16,12 @@
 		{% endif %}
 	</div>
 	{% endif %}
+	{% include header.html %}
 	<div class="wrap">
-		{% include header.html %}
+		{% if page.home and site.show-subtitle or page.home and site.display-social-icons %}
+		{% include subtitle.html %}
+		{% endif %}
+
 		{{ content }}
 	  <script>
 	    $("article").fitVids();

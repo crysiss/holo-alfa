@@ -227,6 +227,7 @@ hr {
   z-index: -9999;
   opacity: .7;
   width: 100%;
+  
 }
 .cover-image-container::after {
   content: "";
@@ -488,9 +489,19 @@ nav a.current {
   }
 }
 @media all and (min-width: {{ site.nav-breaking-point }}) {
+  .cover-image-container {
+    top: 3.2em;
+  }
+  
   .website-title {
     text-align: left;
   }
+
+  body > header {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
   nav {
     position: absolute;
     top: 20px;
