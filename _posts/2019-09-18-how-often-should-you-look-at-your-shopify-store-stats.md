@@ -1,10 +1,10 @@
 ---
 title: 'How often should you look at your Shopify store’s stats?'
 date: 2019-09-18 11:29 +0300
----
+#part of Habits of the data-driven Shopify store owner 
+#part one—data monitoring: frequency
 
-part of Habits of the data-driven Shopify store owner 
-part one—data monitoring: frequency
+---
 
 Being data-driven means you take your stats into account when making decisions. To do so, you have to review your analytics data often. 
 
