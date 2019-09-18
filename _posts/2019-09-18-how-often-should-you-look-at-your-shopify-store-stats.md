@@ -8,8 +8,8 @@ date: 2019-09-18 11:29 +0300
 
 Being data-driven means you take your stats into account when making decisions. To do so, you keep on the pulse of what happens with your website. 
 
-## How often should you review the stats for your store?
-Once a year, once a quarter, once a month, once a week and once a day. These are your times. Since the  events are spread apart, your stats-review sessions will have different goals, too.
+## When to review the stats for your store?
+Once a year, once a quarter, once a month, once a week and once a day. These are your best times. Since the events are spread apart, your stats-review sessions will have different goals, too.
 
 Here is how the different check-up periods help you:
 
