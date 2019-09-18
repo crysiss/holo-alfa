@@ -6,10 +6,10 @@ date: 2019-09-18 11:29 +0300
 
 ---
 
-Being data-driven means you take your stats into account when making decisions. To do so, you have to review your analytics data often. 
+Being data-driven means you take your stats into account when making decisions. To do so, you keep on the pulse of what happens with your website. 
 
-## How often should you look at the Google Analytics reports for your store?
-Once a year, once a quarter, once a month, once a week and once a day. These are your times. Since the different events are spread apart, your stats-review sessions have a different goal.
+## How often should you review the stats for your store?
+Once a year, once a quarter, once a month, once a week and once a day. These are your times. Since the  events are spread apart, your stats-review sessions will have different goals, too.
 
 Here is how the different check-up periods help you:
 
@@ -29,4 +29,4 @@ How did you do? Did you match or exceed your expectations? If you have data last
 ### At the end of every year
 Check your overall stats. How did your store perform this year, compared with the previous one? What is your yearly revenue? Can you calculate your profit? Where do you need to improve the most? Make that your theme for the following year.
 
-With regular stats-review intervals, you’ll be on the pulse of your business. That’s the biggest advantage a data-driven Shopify store owner has over one who shies away from data. Also now you can see the forest for the trees. 
+**With regular stats-review intervals**, you’ll be on the pulse of your business. That’s the biggest advantage a data-driven Shopify store owner has over one who shies away from data. Also now you can see the forest for the trees. 
