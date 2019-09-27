@@ -19,10 +19,10 @@ What confused me here was the fact that the store owner thought that generating 
 But they are not. They work on different facets of the whole system. Let me explain:
 
 ## Running adds for brand awareness doesn't build your brand
-It only helps you make money down the road on the second, third, fourth (or ninth, according to old Coca-Cola research) showing of your ads to the same viewers. That’s **generating revenue**—feeding people into the system you’ve created so you can get money in exchange for the product you are offering.
+It just helps people notice your. But do they remember you? Showing up in front of them only helps you make money down the road on the second, third, fourth (or ninth, according to old Coca-Cola research) viewing of your ads from the same viewers. That’s **generating revenue**—feeding people into the system you’ve created so you can get money in exchange for the product you are offering. But are they buying the story or your product?
 
 ## Building the brand is building the story behind your products 
-Establishing the key reason why what you have is different, what makes it unique? Why should people care about your products more than others from the same category? 
+Establish the key reason why your products are different and what makes them unique. Why should people care about your products more than others from the same category? 
 
 Seeing the difference makes it obvious that just running Facebook ads won’t help your business grow in the long run. You’ll be stuck in the same loop of pouring in money to make more money. Pouring more money in ads won't level up your efficiency in converting people.
 
