@@ -7,21 +7,21 @@ Last week I had a call with the owner of a fashion brand. He wanted to speed up 
 
 His choice of next actions was confusing me.  Despite the fact his products were interesting, there wasn’t much to differentiate them from other brands in the same category.
 
-“What are you doing to grow your store now?” I asked.
-“I’m running ads,” he replied
-“Why?”
-“To build the brand.”
-“Really?”
-“Yes! More people see my brand and watches and later they come to my website and sign up to the newsletter, through which they later may become customers”
+“What are you doing to grow your store now?” I asked. </br>
+“I’m running ads,” he replied </br>
+“Why?”</br>
+“To build the brand.”</br>
+“Really?”</br>
+“Yes! More people see my brand and products and later they come to my website and sign up to the newsletter, through which they later may become customers”
 
 What confused me here was the fact that the store owner thought that generating revenue, and building the brand were the same thing.
 
 But they are not. They work on different facets of the whole system. Let me explain:
 
-## Running adds for brand awareness doesn't build your brand. 
+## Running adds for brand awareness doesn't build your brand
 It only helps you make money down the road on the second, third, fourth (or ninth, according to old Coca-Cola research) showing of your ads to the same viewers. That’s **generating revenue**—feeding people into the system you’ve created so you can get money in exchange for the product you are offering.
 
-## Building the brand is building the story behind your products. 
+## Building the brand is building the story behind your products 
 Establishing the key reason why what you have is different, what makes it unique? Why should people care about your products more than others from the same category? 
 
 Seeing the difference makes it obvious that just running Facebook ads won’t help your business grow in the long run. You’ll be stuck in the same loop of pouring in money to make more money. Pouring more money in ads won't level up your efficiency in converting people.
