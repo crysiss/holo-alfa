@@ -7,11 +7,11 @@ Last week I had a call with the owner of a fashion brand. He wanted to speed up 
 
 His choice of next actions was confusing me.  Despite the fact his products were interesting, there wasn’t much to differentiate them from other brands in the same category.
 
-“What are you doing to grow your store now?” I asked. </br>
-“I’m running ads,” he replied </br>
-“Why?”</br>
-“To build the brand.”</br>
-“Really?”</br>
+“What are you doing to grow your store now?” I asked.  
+“I’m running ads,” he replied  
+“Why?”  
+“To build the brand.”  
+“Really?”  
 “Yes! More people see my brand and products and later they come to my website and sign up to the newsletter, through which they later may become customers”
 
 What confused me here was the fact that the store owner thought that generating revenue, and building the brand were the same thing.
