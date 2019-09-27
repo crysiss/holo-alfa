@@ -26,5 +26,7 @@ Establish the key reason why your products are different and what makes them uni
 
 Seeing the difference makes it obvious that just running Facebook ads won’t help your business grow in the long run. You’ll be stuck in the same loop of pouring in money to make more money. Pouring more money in ads won't level up your efficiency in converting people.
 
-**Your brand is the multiplier of your efforts**
-Do people remember you? Do they come for a second and third order? Do they talk about you in front of their friends? If they do, conversion rates go up, AOV goes up and your revenue goes up without more traffic. That’s what a focus on developing your brand is going to do for your business.
+## Your brand is the multiplier of your efforts
+Do people remember you? Do they come for a second and third order?  
+Do they talk about you in front of their friends?  
+If they do, conversion rates go up, AOV goes up and your revenue goes up without more traffic. That’s what a focus on truly developing the story behind products, a.k.a building your brand is going to do for your business.
