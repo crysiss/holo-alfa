@@ -39,4 +39,4 @@ Yes, you could outsource it. You can skip the nitty-gritty details of filtering,
 You still need the right habits (to consult the data) and the mindset that your data is the oracle you need to ask when you have questions. Otherwise the reports will be useless.
 
 **Do you need help becoming a data-driven Shopify store owner?** 
-Check my [spotting money leaks guide]({{ '/bfcm/'| absolute_url }}) to dip your toes into some of these ideas.
+Check my book ["Your Next Brass Ring"](https://gumroad.com/l/your-next-brass-ring) to dip your toes into some of these ideas.
