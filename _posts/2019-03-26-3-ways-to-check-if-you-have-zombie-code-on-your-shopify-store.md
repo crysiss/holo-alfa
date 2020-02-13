@@ -3,7 +3,11 @@ title: '3 Ways to Check if You Have Zombie Code on Your Shopify Store'
 date: 2019-03-26 13:38 +0200
 ---
 
-The zombie consumes, but never becomes. That insatiable consumption is what makes leftover code on your site dangerous the way zombies are—it eats the resources of your mobile visitors with no intention to stop. Less resources mean less is left for what you really want them to see—the products on your store and the benefits from having them.
+_Is your site slower than usual? Well, I'm 90% certain you have zombie code. Read on to learn how to find it_
+
+The zombie consumes, but never becomes. That insatiable thirst is what makes leftover code on your site dangerous the way zombies are—it eats the resources of your mobile visitors with no intention to stop. 
+
+Less resources mean less is left for what you really want people to see—the products on your store and the benefits from having them.
 
 You may or may not have zombie code on your store. As a Shopify store owner, here are your options to finding out:
 
