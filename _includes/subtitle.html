@@ -1,3 +1,4 @@
+<!-- Original Theme Content -->
 <div class="subtitle">
   <h1>
   {% if site.show-subtitle %}
@@ -6,38 +7,34 @@
   </h1>
   <p>
   {% if site.show-subtitle %}
-    {{ site.description.home-cta }}
-    {% comment%}
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"><script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script><a href="/contact" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/rsdimitrov/30-min-free'});return false;" class="button width--auto">Schedule a Free Consultation</a><br/><em>or scroll down to read Rumen’s articles on the topics of Shopify speed and conversion rate optimization</em>
-    {% endcomment%}
+    {{ site.description.home-cta }}    
   {% endif %}
   </p>
-  {% comment%}
-  <p>
-  {% if site.display-social-icons %}
-    {% if site.show-subtitle and site.display-social-icons %}
-    <br>    
-    {% endif %}
-    {{ site.var_on_the_web }}:&nbsp;
-    {% if site.twitter %}<a class="fa fa-twitter" href="{{ site.twitter }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.youtube %}<a class="fa fa-youtube" href="{{ site.youtube }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.instagram %}<a class="fa fa-instagram" href="{{ site.instagram }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.tumblr %}<a class="fa fa-tumblr" href="{{ site.tumblr }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.facebook %}<a class="fa fa-facebook-official" href="{{ site.facebook }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.google-plus %}<a class="fa fa-google-plus" href="{{ site.google-plus }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.reddit %}<a class="fa fa-reddit" href="{{ site.reddit }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.soundcloud %}<a class="fa fa-soundcloud" href="{{ site.soundcloud }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.medium %}<a class="fa fa-medium" href="{{ site.medium }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.linkedin %}<a class="fa fa-linkedin" href="{{ site.linkedin }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.github %}<a class="fa fa-github" href="{{ site.github }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.behance %}<a class="fa fa-behance" href="{{ site.behance }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.codepen %}<a class="fa fa-codepen" href="{{ site.codepen }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.dribbble %}<a class="fa fa-dribbble" href="{{ site.dribbble }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.trello %}<a class="fa fa-trello" href="{{ site.trello }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.stack-overflow %}<a class="fa fa-stack-overflow" href="{{ site.stack-overflow }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.bitcoin %}<a class="fa fa-bitcoin" href="{{ site.bitcoin }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-    {% if site.paypal %}<a class="fa fa-paypal" href="{{ site.paypal }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
-  {% endif %}
-  </p>
-  {% endcomment%}
+  
+  {% if site.display-social-icons %} 
+    <p>
+      {% if site.show-subtitle and site.display-social-icons %}
+      <br>    
+      {% endif %}
+      {{ site.var_on_the_web }}:&nbsp;
+      {% if site.twitter %}<a class="fa fa-twitter" href="{{ site.twitter }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.youtube %}<a class="fa fa-youtube" href="{{ site.youtube }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.instagram %}<a class="fa fa-instagram" href="{{ site.instagram }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.tumblr %}<a class="fa fa-tumblr" href="{{ site.tumblr }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.facebook %}<a class="fa fa-facebook-official" href="{{ site.facebook }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.google-plus %}<a class="fa fa-google-plus" href="{{ site.google-plus }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.reddit %}<a class="fa fa-reddit" href="{{ site.reddit }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.soundcloud %}<a class="fa fa-soundcloud" href="{{ site.soundcloud }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.medium %}<a class="fa fa-medium" href="{{ site.medium }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.linkedin %}<a class="fa fa-linkedin" href="{{ site.linkedin }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.github %}<a class="fa fa-github" href="{{ site.github }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.behance %}<a class="fa fa-behance" href="{{ site.behance }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.codepen %}<a class="fa fa-codepen" href="{{ site.codepen }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.dribbble %}<a class="fa fa-dribbble" href="{{ site.dribbble }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.trello %}<a class="fa fa-trello" href="{{ site.trello }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.stack-overflow %}<a class="fa fa-stack-overflow" href="{{ site.stack-overflow }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.bitcoin %}<a class="fa fa-bitcoin" href="{{ site.bitcoin }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}
+      {% if site.paypal %}<a class="fa fa-paypal" href="{{ site.paypal }}" {% if site.social-icons-open-newtab %}target="_blank"{% endif %}></a>{% endif %}  
+    </p>
+  {% endif %}   
 </div>
