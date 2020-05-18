@@ -10,7 +10,7 @@ description:
 
   # Description of your site. This will show up on the front page.
   subtitle: <span class="bleed">Bleeding money</span> from your Shopify store?
-  home-cta: <a href="https://gum.co/your-next-brass-ring" class="button width--auto" target="_blank">Find the open wounds now</a><br/><em>or scroll down to read Rumen’s articles on the topics of Shopify speed and conversion rate optimization</em>
+  home-cta: <a href="/contact" class="button width--auto">Start Now</a><br/><em>or scroll down to read Rumen’s articles on the topics of Shopify speed and conversion rate optimization</em>
 
 author:
   name: Rumen Dimitrov # Change this!
