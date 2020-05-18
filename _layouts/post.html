@@ -11,17 +11,19 @@ layout: default
 
 <article>  
 	<h1>{{ page.title }}</h1>
-  <span class="meta">{{ read-time }}</span>
-		{{ content }}
+  <span class="meta">
   {% if site.display-author-post-page %}
     {% if page.author.name %}
-      <small><em>{{ site.var_guest_post_by }}: {{ page.author.name }} {{ page.author.info }}</em></small>
+      <em>{{ site.var_guest_post_by }} {{ page.author.name }} {{ page.author.info }}</em>
     {% else %}
       {% if site.author.name %}
-        <small><em>{{ site.var_post_by }}: {{ site.author.name }} {{ site.author.info }}</em></small>
+        {{ site.var_post_by }} {{ site.author.name }} {{ site.author.info }}
       {% endif %}
     {% endif %}
-  {% endif %}
+  {% endif %}  
+  • {{ read-time }}
+  </span>
+		{{ content }}  
 </article>
 
 {% include sign-up-default.html %}
