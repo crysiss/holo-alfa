@@ -1,4 +1,6 @@
-<header>
+
+<header>&nbsp;
+{%- comment	-%}
   <a href="{{ site.baseurl }}/" class="website-title">
     {% if site.logo-image %}
       <img alt="{{ site.name }}" src="{{ site.baseurl }}{{ site.logo-image }}">
@@ -8,4 +10,5 @@
 
   </a>
   {% include navigation.html %}
+  {%- endcomment	-%}
 </header>

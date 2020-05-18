@@ -1,5 +1,18 @@
+{%- comment-%}
 <footer>
   <div class="inner">
     <p>{{ site.footer-text }}</p>
   </div>
 </footer>
+{%- endcomment	-%}
+<header>
+  <a href="{{ site.baseurl }}/" class="website-title">
+    {% if site.logo-image %}
+      <img alt="{{ site.name }}" src="{{ site.baseurl }}{{ site.logo-image }}">
+    {% else %}
+      {{ site.name }}
+    {% endif %}
+
+  </a>
+  {% include navigation.html %}
+</header>
