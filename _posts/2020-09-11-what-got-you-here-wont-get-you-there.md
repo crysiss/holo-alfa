@@ -1,7 +1,9 @@
 ---
-title: 'What got you here won't get you there'
+title: 'What got you here won’t get you there'
 date: 2020-09-11 09:05 +0300
+
 ---
+
 What makes "six-figure a year" stores "six-figure" is a good niche product that people want. They know people buy "this".
 
 What stops six-figure stores from becoming seven-figure ones is the fact they don't know much about their customers yet. They don't know _why_ people buy.
