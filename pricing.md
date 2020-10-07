@@ -6,6 +6,22 @@ permalink: /pricing/
 
 
 ## Data-based Store Growth Strategy
+<style>
+@media only screen and (min-width: 760px) {
+	h1 {
+		text-align: center;			
+		margin: 0 calc( (-100vw + 760px) / 3 );
+
+	}
+}
+@media only screen and (min-width: 1920px) {
+	h1 {
+		text-align: center;			
+		margin: 0 calc( (-100vw + 760px) / 5 );
+
+	}
+}
+</style>
 I'll crunch and analyze your Shopify store's Google Analytics data to show you the opportunities you may be missing and their value.
 That, together with more insights specific to your business, would be presented in a detailed report explaining what you should focus on and how much are you going to gain from it. Comes with a prioritized list of next actions that you can start working on today.
 
