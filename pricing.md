@@ -55,6 +55,7 @@ Duration: 60 minutes <br/>
 
 Book now
 
+
 <!--
 ## Products
 ### Your Next Brass Ring: Find where you are leaving money on the table with your Shopify store — $25
