@@ -48,12 +48,12 @@ Delivery: written report full of images and annotations <br/>
 Bellow you'll find ways I can help you grow your Shopify store at the moment. If you are looking for something not listed here, please contact me at <a href="mailto:rumen@rumendimitrov.com?subject=Looking for help with my Shopify store&body=Hey Rumen!%0AI am looking for help with INSERT YOUR PROBLEM HERE, but couldn't find it on your website.%0A%0ACan you help me with that?%0A%0AMy website is YOUR WEBSITE URL.%0A%0AThanks,%0AYOUR NAME">rumen@rumendimitrov.com</a>.
 
 ## Services
-### Strategy call — $250
-We'll talk about the goals you have for your store and its current performance. Then we'll go through the website and analytics and I'll point out anything that stands out that's stopping you from reaching the goals. During the call you can ask me anything. 
+### Strategy call — starting from $149
+We'll talk about the goals you have for your store and its current performance. Then we'll go through the website and analytics and I'll point out anything that stands out that's stopping you from reaching your goals. During the call you can ask me anything. 
 
 Duration: 60 minutes <br/>
 
-Book now
+<a class="button width--auto" href="https://app.moonclerk.com/pay/6btlhs8iiz06">Book now</a>
 
 
 <!--
