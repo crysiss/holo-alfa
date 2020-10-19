@@ -568,3 +568,21 @@ figcaption {
   font-size: 0.8em;
 }
 
+/* Custom */
+@media only screen and (min-width: 760px) {
+  h1 {
+    text-align: center;     
+    margin: 0 calc( (-100vw + 760px) / 3 );
+
+  }
+  h1 + .meta {
+    text-align: center;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  h1 {
+    text-align: center;     
+    margin: 0 calc( (-100vw + 760px) / 5 );
+
+  }
+}

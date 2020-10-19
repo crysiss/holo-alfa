@@ -4,23 +4,6 @@ title: Increase Your Shopify Revenue & Profits
 permalink: /pricing/
 ---
 
-<style>
-@media only screen and (min-width: 760px) {
-	h1 {
-		text-align: center;			
-		margin: 0 calc( (-100vw + 760px) / 3 );
-
-	}
-}
-@media only screen and (min-width: 1920px) {
-	h1 {
-		text-align: center;			
-		margin: 0 calc( (-100vw + 760px) / 5 );
-
-	}
-}
-</style>
-
 <!--
 ## Store Growth Strategy — $1250
 <strong>Tailored to the specifics of your target market and your business.</strong> 
