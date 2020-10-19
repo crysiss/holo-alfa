@@ -573,6 +573,7 @@ figcaption {
   h1 {
     text-align: center;     
     margin: 0 calc( (-100vw + 760px) / 3 );
+    widows: 2;
 
   }
   h1 + .meta {
