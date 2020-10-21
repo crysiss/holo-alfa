@@ -39,14 +39,16 @@ Duration: 60 minutes <br/>
 <a class="button width--auto" href="https://app.moonclerk.com/pay/6btlhs8iiz06">Book now</a>
 
 
-<!--
+
 ## Products
-### Your Next Brass Ring: Find where you are leaving money on the table with your Shopify store — $25
-Do you spend a lot on Shopify apps, product and collection page customizations, Facebook/Google/Instagram ads... only to see people come to your website and abandon their carts? If they actually add anything to the cart, that is. 
+### Your Next Brass Ring — $25
+**Find where you are leaving money on the table with your Shopify store**
+
+Do you spend a lot of money on Shopify apps, product and collection page customizations, Facebook/Google/Instagram ads... only to see people come to your website and abandon their carts? If they actually add anything to the cart, that is. 
 
 Imagine being certain what would help more of your Shopify store's visitors to place an order... 
 
-In this book you'll learn how to find what stops your visitors from placing an order. 
+In this book you'll learn how to find what stops your visitors from completing the check out on your website. 
 
-<p><a href="https://gum.co/your-next-brass-ring" target="_blank">Buy now 👉</a><br/>
-<small>Next up: book description</small></p>-->
+<p><a href="https://gum.co/your-next-brass-ring" class="button width--auto" target="_blank">Buy now 👉</a><br/>
+<small>Next up: book description</small></p>
