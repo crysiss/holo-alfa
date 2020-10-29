@@ -1,26 +1,10 @@
 ---
 layout: page
-title: Services (and a product) to Increase Your Shopify Revenue & Profits
+title: Increase Your Shopify Revenue & Profits
 permalink: /pricing/
 ---
 
-<style>
-@media only screen and (min-width: 760px) {
-	h1 {
-		text-align: center;			
-		margin: 0 calc( (-100vw + 760px) / 3 );
-
-	}
-}
-@media only screen and (min-width: 1920px) {
-	h1 {
-		text-align: center;			
-		margin: 0 calc( (-100vw + 760px) / 5 );
-
-	}
-}
-</style>
-
+<!--
 ## Store Growth Strategy — $1250
 <strong>Tailored to the specifics of your target market and your business.</strong> 
 I'll crunch and analyze your Shopify store's Google Analytics data to show you the opportunities you may be missing and their value.
@@ -30,8 +14,8 @@ Duration: 7–10 business days<br/>
 Delivery: written report + a Q&A call where I'll also present the report to you and your team <br/>
 
 
-Apply now
-or Contact me for example reports 
+<!-- Apply now --><!--
+<a href="/contact">Contact me</a>
 
 
 ## Customer Behavior Discovery — $550
@@ -42,22 +26,29 @@ I'll also set up visitor recordings and heatmapping to see how people use the we
 
 Duration: 4–7 business days <br/>
 Delivery: written report full of images and annotations <br/>
+-->
+
+Bellow you'll find ways I can help you grow your Shopify store at the moment. If you are looking for something not listed here, please contact me at <a href="mailto:rumen@rumendimitrov.com?subject=Looking for help with my Shopify store&body=Hey Rumen!%0AI am looking for help with INSERT YOUR PROBLEM HERE, but couldn't find it on your website.%0A%0ACan you help me with that?%0A%0AMy website is YOUR WEBSITE URL.%0A%0AThanks,%0AYOUR NAME">rumen@rumendimitrov.com</a>.
+
+## Services
+### Strategy call — starting from $149
+We'll talk about the goals you have for your store and its current performance. Then we'll go through the website and analytics and I'll point out anything that stands out that's stopping you from reaching your goals. During the call you can ask me anything. 
+
+Duration: 60 minutes <br/>
+
+<a class="button width--auto" href="https://app.moonclerk.com/pay/6btlhs8iiz06">Book now</a>
 
 
-## Strategy call — $250
-We talk about the goals of the business owner and their current performance.Together we go through their website and analytics and I'll point out anything that stands out that's stopping them from reaching the goals.During the call the business owner can ask me anything. 
 
-Duration: 60–90 minutes <br/>
+## Products
+### Your Next Brass Ring — $25
+**Find where you are leaving money on the table with your Shopify store**
 
-Book now
-
-
-## Your Next Brass Ring: Find where you are leaving money on the table with your Shopify store — $25
-Do you spend a lot on Shopify apps, product and collection page customizations, Facebook/Google/Instagram ads... only to see people come to your website and abandon their carts? If they actually add anything to the cart, that is. 
+Do you spend a lot of money on Shopify apps, product and collection page customizations, Facebook/Google/Instagram ads... only to see people come to your website and abandon their carts? If they actually add anything to the cart, that is. 
 
 Imagine being certain what would help more of your Shopify store's visitors to place an order... 
 
-In this book you'll learn how to find what stops your visitors from placing an order. 
+In this book you'll learn how to find what stops your visitors from completing the check out on your website. 
 
-<p><a href="https://gum.co/your-next-brass-ring" target="_blank">Buy now 👉</a><br/>
+<p><a href="https://gum.co/your-next-brass-ring" class="button width--auto" target="_blank">Buy now 👉</a><br/>
 <small>Next up: book description</small></p>
