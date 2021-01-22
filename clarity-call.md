@@ -2,6 +2,7 @@
 layout: page
 title: Not enough sales on your Shopify store?
 permalink: /clarity-call/
+summary: Not enough sales on your Shopify store and you don't know why? What if you were certain where your Shopify site needed to be touched up so that more people could move smoothly through it and check out? Well, I can help with that.
 ---
 
 You are unsure why the visitors to your Shopify store buy less than you expect them to. And you want to find out, but there is just too much information, from too many sources! 
@@ -20,7 +21,7 @@ But this only ramps up your anxiety and you start questioning and stressing over
 ## STOP IT!
 Before you get into the rabbit hole of random site tweaks, here is what I can tell you from my experience:
 
-**Fiddling with your site makes you feel almost certain that "they'll finally start buying (more)"**. But sadly, all this work rarely brings positive results when it goes live on your store.
+Fiddling with your site makes you feel almost certain that "they'll finally start buying (more)". **But sadly, all this work rarely brings positive results when it goes live on your store**.
 
 Then, the more paid traffic crashes on your site with disappointing results, the more unsure you start to feel...
 
