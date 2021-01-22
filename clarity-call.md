@@ -23,7 +23,7 @@ Before you get into the rabbit hole of random site tweaks, here is what I can te
 
 Fiddling with your site makes you feel almost certain that "they'll finally start buying (more)". **But sadly, all this work rarely brings positive results when it goes live on your store**.
 
-Then, the more paid traffic crashes on your site with disappointing results, the more unsure you start to feel...
+As your paid traffic dissapoints you more and more you start to feel more unsure...
 
 ## "What am I doing wrong?"
 	
@@ -40,7 +40,7 @@ It's true, looking for answers through dashboards and piles of data can be as fr
 
 There is a method to this madness. One that helps you tame the overflowing data, narrow down your options and zoom in on the most pressing issues. And with an experienced guide to lead you through, this whole data-dive could turn from a near-death to an eye-opening experience for you.
 
-Get sure what and how you can improve on your website, after a clarity call with me. Identify the bottlenecks in your shopping process, learn what's causing people to leave without buying and understand the meaning of vital Google Analytics reports to eliminate confusion forever.
+After a clarity call with me you'll be certain what and how you can improve on your website. Identify the bottlenecks in your shopping process, learn what's causing people to leave without buying and understand the meaning of vital Google Analytics reports to eliminate confusion forever.
 
 At the end of the call, you'll not only know where and how your Shopify store needs to be improved, but you'll also learn how to spot future issues and opportunities  yourself.
 
