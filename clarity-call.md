@@ -10,8 +10,8 @@ You are unsure why the visitors to your Shopify store buy less than you expect t
 Drowning in analytics data that tells you nothing, you turn to "expert" advice on the internet about best practices and the latest trendy apps to increase your conversions.
 
 But this only ramps up your anxiety and you start questioning and stressing over everything: 
-- is it the store speed? Maybe that's why they bounce...
-- or something is missing from the product pages?
+- Is it the store speed? Maybe that's why they bounce...
+- What if something is missing from the product pages? What could it be...
 - I think the site is not designed well...What if I change the theme?
 - Quick Shop? Yes...?!
 - I need more payment methods...maybe?!
