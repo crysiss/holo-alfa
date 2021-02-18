@@ -7,7 +7,17 @@
 {{ site.name }}
 {% endif %}
 </title>
-<meta name="description" content="{{ page.summary }} {{ site.description.meta }}">
+
+{% capture description %}
+{% if page.summary %}
+{{ page.summary }}
+{% else %}
+{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}
+{% endif %}
+{% endcapture %}
+
+<meta name="description" content="{{ description | strip }}">
+
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ site.baseurl }}/feed.xml">
 
 <!-- icons -->
@@ -35,12 +45,7 @@
 {% endif %}
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-<meta property="og:description" content="
-{% if page.summary %}
-{{ page.summary }}
-{% else %}
-{{ site.description.meta }}
-{% endif %}">
+<meta property="og:description" content="{{ description | strip }}">
 <!-- /og tags -->
 {% include analytics.html %}
 
