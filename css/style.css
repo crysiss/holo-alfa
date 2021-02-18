@@ -40,7 +40,7 @@ p * {
   line-height: 1em; /* Bold font line-height fix */
 }
 strong {
-  font-weight: 700;
+  font-weight: 600;
 }
 i, em {
   font-style: italic;
