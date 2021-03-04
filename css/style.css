@@ -271,8 +271,7 @@ nav {
 article {
   margin-top: 30px;
 }
-article::after,
-.subtitle::after {
+article::after {
   margin: 50px 0;
   content: "•";
   line-height: 0;
@@ -292,6 +291,7 @@ a.read-more {
   text-decoration: none !important;
   font-weight: 600;
 }
+input[type="text"],
 input[type="email"],
 textarea {
   font: inherit;
@@ -400,7 +400,7 @@ nav a.current {
   color: rgba({{ site.text-color }}, .76)
 }
 .subtitle {
-  margin: 30px 0;
+  padding: 30px 15px;
   color: rgba({{ site.text-color }},1);
   text-align: center;
 }
@@ -434,8 +434,7 @@ nav a.current {
   }
   footer .inner {
     padding: 0 30px;
-  }
-  .subtitle,
+  }  
   .fluid-width-video-wrapper,
   ol,
   ul,

@@ -15,12 +15,12 @@
 		<img alt="Cover image" src="{{ site.baseurl }}/img/covers/{{ page.cover-image }}">		
 		{% endif %}
 	</div>
+	{% endif %}	
+	
+	{% if page.home and site.show-subtitle or page.home and site.display-social-icons %}
+	{% include subtitle.html %}
 	{% endif %}
 	<div class="wrap">
-		{% if page.home and site.show-subtitle or page.home and site.display-social-icons %}
-		{% include subtitle.html %}
-		{% endif %}
-
 		{{ content }}
 	</div>
 	{% include footer.html %}
