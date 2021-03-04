@@ -13,42 +13,14 @@ summary: Optimize your Shopify store for conversions to make more money from you
 }
 </style>
 
+<h2>Latest articles:</h2>
+<ul>
 {% for post in paginator.posts %}
-
-  {% assign minutes = post.content | number_of_words | divided_by: 180 %}
-  {% if minutes == 0 %}
-    {% assign read-time = site.var_less_than_a_minute_read %}
-  {% else %}
-    {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
-  {% endif %}
-
-  <article>
-  	<a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-    <span class="meta">
-      {% if site.display-author-front-page %}
-        {% if post.author.name %}
-          by {{ post.author.name }} •
-        {% else %}
-          {% if site.author.name %}
-            by {{ site.author.name }} •
-          {% endif %}
-        {% endif %}
-      {% endif %}
-      <!-- {{ post.date | date: site.date_format }} • --> {{ read-time }}</span>
-
-      {% comment %}
-      <p>        
-      {% if post.summary %}
-        {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% else %}
-        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>
-      {% endif %}      
-      </p>
-      {% endcomment %}  
-
-  </article>
+  <li>
+  	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
 {% endfor %}
-
+</ul>
 {% if paginator.previous_page or paginator.next_page %}
   {% include pagination.html %}
 {% endif %}

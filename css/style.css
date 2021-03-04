@@ -59,7 +59,7 @@ a {
   background-size: 1px 1px;
   background-repeat: repeat-x;
   background-size: 1px 1px;
-  background-position: 0 87%;
+  background-position: 0 95%;
 }
 .no-cssgradients a {
   text-decoration: underline;
@@ -71,6 +71,9 @@ ol {
 }
 ul {
   list-style: disc;
+}
+ul li::marker {
+  color: rgba({{ site.theme-color }}, 0.4);;
 }
 ol {
   list-style: decimal;
